@@ -23,3 +23,4 @@ To eliminate land fraud, reduce corruption, and digitize land ownership records 
 
 Contract Address:
 0x7EF2e0048f5bAeDe046f6BF797943daF4ED8CB47
+<img width="1470" alt="Screenshot 2025-04-07 at 12 45 32 PM" src="https://github.com/user-attachments/assets/a25fb7c1-adef-4762-b084-98917070217e" />
